@@ -9,3 +9,15 @@ body {
   background-color: lightgray;
   font-family: sans-serif;
 }
+
+h1 {
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h2{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* 
+code found on website: blablabla on date */
