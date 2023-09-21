@@ -1,21 +1,16 @@
-*,
-*::before,
-*::after {
-  box-sizing: content-box;
-}
+
 
 body {
-  margin: 0;
-  background-color: lightgray;
+  background-color: #DBE9EE;
   font-family: sans-serif;
 }
 
 h1 {
   text-align: center;
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-h2{
+h2 {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
