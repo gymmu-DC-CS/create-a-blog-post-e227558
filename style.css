@@ -1,18 +1,37 @@
 
 
 body {
-  background-color: #DBE9EE;
+  background-color: #ebc6c6;
   font-family: sans-serif;
 }
 
+style {
+  background-image:none
+}
+
+#title {
+  border: 5px outset red;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+}
+
 h1 {
+  font: bolder;
   text-align: center;
   font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 80px;
+margin-top: 5%;
+color: white;
 }
+ 
 
 h2 {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+
+
 /* 
 code found on website: blablabla on date */
