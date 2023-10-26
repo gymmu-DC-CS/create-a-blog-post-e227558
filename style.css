@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: #ebc6c6;
+  background-color: #000000;
   font-family: sans-serif;
 }
 
@@ -9,29 +9,30 @@ style {
   background-image:none
 }
 
-#title {
-  border: 5px outset red;
-  width: 500px;
-  text-align: center;
-  margin: auto;
-}
+
 
 h1 {
   font: bolder;
-  text-align: center;
-  font-family:Georgia, 'Times New Roman', Times, serif;
-font-size: 80px;
+  text-align: left;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 20px;
 margin-top: 5%;
-color: white;
+color: rgb(100, 2, 2);
 }
  
 
 h2 {
-  text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 10px;
+}
+
+#bar {
+  background-color: white;
+  height: 100px;
+  width: 1000px;
 }
 
 
-
 /* 
-code found on website: blablabla on date */
+code found on website: blalblabla on date /*
