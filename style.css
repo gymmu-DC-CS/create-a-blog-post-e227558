@@ -24,13 +24,7 @@ color: rgb(100, 2, 2);
 h2 {
   text-align: left;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 10px;
-}
-
-#bar {
-  background-color: white;
-  height: 100px;
-  width: 1000px;
+  font-size: 11px;
 }
 
 
